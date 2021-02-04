@@ -1,0 +1,15 @@
+= Animals API
+
+== Get All Animals
+
+.request
+include::C:/Users/889421/IdeaProjects/zoo-api-solution/target/snippets/animals/http-request.adoc[]
+
+.response
+include::C:/Users/889421/IdeaProjects/zoo-api-solution/target/snippets/animals/http-response.adoc[]
+
+.response fields
+include::C:/Users/889421/IdeaProjects/zoo-api-solution/target/snippets/animals/response-fields.adoc[]
+
+
+
